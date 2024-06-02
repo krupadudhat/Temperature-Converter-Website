@@ -14,7 +14,7 @@ JavaScript: For implementing the conversion logic and interactivity.
 # Installation
 To view the project locally, follow these steps:
 # Clone the repository:
-git clone https://github.com/yourusername/temperature-converter-website.git
+https://github.com/krupadudhat/Temperature-Converter-Website.git
 # Navigate to the project directory:
 cd temperature-converter-website
 # Open index.html in your preferred web browser:
